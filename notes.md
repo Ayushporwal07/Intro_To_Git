@@ -55,3 +55,7 @@ A storage location for your project, including all the files and the entire hist
 *  git branch -M main
 <!-- usuall drill -->
 *  git push -u origin main
+
+*  git branch -M main
+<!-- usuall drill -->
+*  git push -u origin main
